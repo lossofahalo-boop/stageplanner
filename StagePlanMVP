@@ -1,0 +1,31 @@
+
+## Initial Scope (MVP)
+
+### Venue Discovery & Requests
+
+* User authentication
+* Browse available venues
+* View calendar availability
+* Select date and time slots
+* Send booking requests to venues
+
+### Venue Management
+
+* Venue authentication
+* Accept / decline requests
+* Add venue information
+* Publish monthly availability
+* Remove availability entries
+
+## Planned Improvements
+
+* Subscription model
+* Search and filtering
+* City-based discovery
+* Calendar editing tools
+* Request management improvements
+
+## Status
+
+Early-stage prototype currently under active development.
+Features and scope may evolve over time.
